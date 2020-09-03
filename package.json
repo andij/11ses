@@ -1,0 +1,22 @@
+{
+  "name": "11ses",
+  "version": "1.0.0",
+  "description": "11ses",
+  "scripts": {
+    "start": "ELEVENTY_ENV=development npx eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andij/11ses.git"
+  },
+  "keywords": [],
+  "author": "Drew Jones - @andij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andij/11ses/issues"
+  },
+  "homepage": "https://github.com/andij/11ses#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
